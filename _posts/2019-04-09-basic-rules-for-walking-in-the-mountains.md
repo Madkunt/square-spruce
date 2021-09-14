@@ -41,6 +41,9 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: post
+subtitle: >-
+  Bushcraft imparts the knowledge and skill to live off the land with minimal
+  reliance on tools and equipment.
 ---
 
 ![Hiking](/images/2.jpg)
