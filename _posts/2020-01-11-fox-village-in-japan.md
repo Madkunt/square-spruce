@@ -1,5 +1,5 @@
 ---
-title: 'SHTF! Network '
+title: SHTF! Network
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
