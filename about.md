@@ -1,5 +1,7 @@
 ---
-title: About Me
+title: >-
+  Welcome to Survival Supplies Australia - Australia's premiere online shop for
+  survival, prepping and bushcraft gear and accessories.
 subtitle: This is a short page about me and my work
 img_path: images/about.jpg
 seo:
