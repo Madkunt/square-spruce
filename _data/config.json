@@ -2,7 +2,6 @@
     "title": "Stackbit Fjord Theme",
     "palette": "yellow",
     "header": {
-        "title": "Fjord",
         "tagline": "Minimal and clean blog theme",
         "logo_img": "images/logo.svg",
         "background_img": "images/header-bg.jpg",
