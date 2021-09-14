@@ -1,5 +1,5 @@
 ---
-title: SHT
+title: 'SHTF '
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
