@@ -2,7 +2,7 @@
 title: >-
   Welcome to SHTH! Network - online shop for survival, prepping and bushcraft
   gear and accessories.
-subtitle: This page wI’ll
+subtitle: This page wI’ll provides a brief overview about SHFT! Network.
 img_path: images/about.jpg
 seo:
   title: About Me
