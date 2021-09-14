@@ -6,7 +6,7 @@ excerpt: >-
   requires pushing vegetation aside.
 date: '2021-04-09'
 thumb_img_path: images/1.jpg
-thumb_img_alt: ' a river'
+thumb_img_alt: ' '
 content_img_path: images/1.jpg
 seo:
   title: Basic Rules For Walking In The Mountains
