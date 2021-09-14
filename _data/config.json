@@ -2,7 +2,6 @@
     "title": "SHTF!!  Network ",
     "palette": "yellow",
     "header": {
-        "logo_img": "images/logo.svg",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
         "nav_links": [
